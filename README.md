@@ -1,0 +1,2 @@
+# mernisBotAltyapiApi
+MernisbotSorgu
